@@ -1,7 +1,7 @@
 # Tara-AI
 
 ## RU vers:
--- Telegram бот, совмещающий магию и технологии! 
+——— Telegram бот, совмещающий магию и технологии! 
 Версия с использованием чата GPT.
 
 ### Правила использования:
@@ -20,8 +20,10 @@
 Для использования возможностей бота с нейросетью с территории России нужен онлайн сервер и VPN.
 
 
+
+
 ## ENG vers:
--- Telegram bot combining magic and technology! 
+——— Telegram bot combining magic and technology! 
 GPT chat version.
 
 ### Terms of use:
