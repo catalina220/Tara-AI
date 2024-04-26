@@ -19,6 +19,7 @@
 ### !Внимание!
 Для использования возможностей бота с нейросетью с территории России нужен онлайн сервер и VPN.
 
+
 ## ENG vers:
 -- Telegram bot combining magic and technology! 
 GPT chat version.
