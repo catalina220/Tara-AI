@@ -92,7 +92,7 @@ def tarot_answer(message):
 
     # Отправка сгенерированного ответа пользователю
     bot.send_photo(message.chat.id, photo=open(f"card{x}.png", "rb"))
-    send_message(message, f"Ответ от карт: {meaning}\n")
+    send_message(message, f"Ответ от карт: {generated_text}\n")
     bot.send_message(message.chat.id, 'Для начала нового гадания выбери, на чем будем гадать!', reply_markup=markup)
 
 
